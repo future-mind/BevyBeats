@@ -1,0 +1,11 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+httpx==0.25.0
+python-dotenv==1.0.0
+redis==5.0.0
+google-auth==2.22.0
+ytmusicapi==1.0.2
+soundcloud-api==0.3.7
+mistralai==0.0.7
+pytube==15.0.0 
